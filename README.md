@@ -1,3 +1,3 @@
 #README
 
-This file will contain README info for our project
+This file will contain README information for our project

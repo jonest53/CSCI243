@@ -11,3 +11,5 @@ Added a third sentence for the final commit
 First commit for new branch
 
 Second commit on new branch
+
+Third commit sentence for final commit under new branch

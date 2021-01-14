@@ -9,3 +9,5 @@ Added a third sentence for the final commit
 ##Branch 2 Additional Info
 
 First commit for new branch
+
+Second commit on new branch
